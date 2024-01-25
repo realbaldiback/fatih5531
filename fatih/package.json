@@ -1,0 +1,23 @@
+{
+  "name": "Asperius Development.",
+  "version": "0.0.1",
+  "description": "Asperius Development Sunucusuna aittir paylaşmak yasaktır!.",
+  "main": "asperius.js",
+  "scripts": {
+    "start": "node asperius.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.3",
+    "quick.db": "^9.0.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
